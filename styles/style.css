@@ -67,7 +67,7 @@
   z-index: -1;
 }
 
-.header__main-illustration img {
+.header__main-illustration {
   background-size: cover;
   position: absolute;
   right: 0;
@@ -138,7 +138,6 @@
 
 .section-title_theme_dark {
   color: #fff;
-  position: relative;
 }
 
 .section-subtitle {
@@ -150,7 +149,6 @@
 
 .section-subtitle_theme_dark {
   color: #fff;
-  position: relative;
 }
 
 .table {
@@ -165,7 +163,6 @@
 
 .table_theme_dark {
   padding: 0;
-  position: relative;
 }
 
 .table__cell {
@@ -251,7 +248,6 @@
   background-image: url(../images/logo_place_footer.svg);
   background-size: cover;
   height: 35px;
-  width: 183px;
 }
 
 .footer__columns {
