@@ -3,15 +3,18 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Описание
 Проект выполнен в рамках курса "Веб-разработчик" от [Яндекс.Практикум](https://practicum.yandex.ru/).\
 Сайт How to learn - типовой одностраничный сайт, на котором рассказывается о способах учиться и запоминать материал, используя различные методики.
 
-**Для просмотра сайта клонируйте репозиторий:**
-> git clone https://github.com/Leo-Gladkikh-2020/how-to-learn
+**Среда разработки:** Visual Studio Code
+
+### Установка
+Для просмотра клонируйте репозиторий:
+```
+git clone https://github.com/Leo-Gladkikh-2020/how-to-learn
+```
 
 ### Технологии:
 1. HTML5
