@@ -21,6 +21,8 @@
 8. Псевдоклассы
 9. YouTube API
 
+Разработка велась в 2 этапа с прохождением код-ревью.
+
 ### 1-й этап разработки:
 * [1-й бриф](https://code.s3.yandex.net/web-developer/project-1/sprint-1-brief.pdf)
 * [1-й чеклист](https://code.s3.yandex.net/web-developer/checklists-pdf/new-program/checklist-1.pdf)
