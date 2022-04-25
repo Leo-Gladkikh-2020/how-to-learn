@@ -7,8 +7,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Описание
-[Проект](https://leo-gladkikh-2020.github.io/how-to-learn/) выполнен в рамках курса "Веб-разработчик" от [Яндекс.Практикум](https://practicum.yandex.ru/).\
+Проект выполнен в рамках курса "Веб-разработчик" от [Яндекс.Практикум](https://practicum.yandex.ru/).\
 Сайт How to learn - типовой одностраничный сайт, на котором рассказывается о способах учиться и запоминать материал, используя различные методики.
+
+**Для просмотра сайта клонируйте репозиторий:**
+> git clone https://github.com/Leo-Gladkikh-2020/how-to-learn
 
 ### Технологии:
 1. HTML5
@@ -21,7 +24,7 @@
 8. Псевдоклассы
 9. YouTube API
 
-Разработка велась в 2 этапа с прохождением код-ревью.
+**Разработка велась в 2 этапа с прохождением код-ревью.**
 
 ### 1-й этап разработки:
 * [1-й бриф](https://code.s3.yandex.net/web-developer/project-1/sprint-1-brief.pdf)
@@ -30,6 +33,3 @@
 ### 2-й этап разработки:
 * [2-й бриф](https://code.s3.yandex.net/web-developer/project-1/sprint-2-brief.pdf)
 * [2-й чеклист](https://code.s3.yandex.net/web-developer/checklists-pdf/new-program/checklist-2.pdf)
-
-### GitHub Pages
-* [Ссылка на проект на GitHub Pages](https://leo-gladkikh-2020.github.io/how-to-learn/)
